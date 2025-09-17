@@ -198,7 +198,7 @@ export default function SafeRouteScreen({ navigation }) {
         <Card>
           <Button selected={true} onPress={handleStartNavigation}>
             <ButtonText selected={true}>
-              <Ionicons name="navigation" size={18} color="#FFFFFF" /> Start Navigation
+              <Ionicons name="navigation" size={18} color="#FFFFFF" />Start Navigation
             </ButtonText>
           </Button>
           
